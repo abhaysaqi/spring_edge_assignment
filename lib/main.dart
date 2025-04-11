@@ -485,6 +485,7 @@ Widget buildTextField(
           TextEditingController textEditingController,
           FocusNode focusNode,
           VoidCallback onFieldSubmitted) {
+
         textEditingController.text = controller.text;
 
         return TextFormField(

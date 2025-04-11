@@ -31,8 +31,8 @@ flutter run -d chrome
 ```
 
 ## 📸 Demo Screenshot
-![App Screenshot](screenshot/assignment2.png)
+![App Screenshot](https://github.com/abhaysaqi/spring_edge_assignment/blob/main/screenshot/assignment%202.png)
 
 
-###🔗 API Used
+### 🔗 API Used
 **Hipolabs Universities API**

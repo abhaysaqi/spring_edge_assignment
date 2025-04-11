@@ -34,7 +34,7 @@ flutter run -d chrome
 ![App Screenshot](https://github.com/abhaysaqi/spring_edge_assignment/blob/main/screenshot/assignment%202.png)
 
 ## 📸 Demo Video
-![Video]([https://github.com/abhaysaqi/spring_edge_assignment/blob/main/screenshot/assignment%202.png](https://github.com/abhaysaqi/spring_edge_assignment/blob/main/video.mp4))
+[![Watch the video](https://github.com/abhaysaqi/spring_edge_assignment/blob/main/screenshot/assignment%202.png)](https://github.com/abhaysaqi/spring_edge_assignment/blob/main/video.mp4)
 
 ### 🔗 API Used
 **Hipolabs Universities API**
